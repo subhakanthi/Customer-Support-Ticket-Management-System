@@ -1,4 +1,4 @@
-# Customer Support Ticket Management System – Enhancing Customer Service with Salesforce
+# Customer Support Ticket Management System 
 
 ## Project Overview
 The Customer Support Ticket Management System is a Salesforce-based application designed to manage customer support requests efficiently. It enables organizations to track customer issues, automate ticket assignments, and ensure timely resolution through structured workflows and real-time reporting.
